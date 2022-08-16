@@ -1,0 +1,3 @@
+cit day 2
+how to use git and github
+description:this is to test whether i got the concept
